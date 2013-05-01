@@ -1,5 +1,5 @@
 {
-  "name": "require-config",
+  "name": "require-config-obj",
   "version": "0.1.0",
   "description": "validate configuration objects",
   "main": "index.js",

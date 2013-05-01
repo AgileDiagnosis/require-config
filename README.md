@@ -1,10 +1,10 @@
-# require-config
+# require-config-obj
 validate configuration objects
 
 
 ## usage
 
-    var requireConfig = require('require-config')
+    var requireConfig = require('require-config-obj')
 
     var config = {
       foo: 'bar',
